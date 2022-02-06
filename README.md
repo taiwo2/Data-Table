@@ -5,7 +5,7 @@ These are the field  respectively symbol, description, underlying_asset.symbol,M
 </p>
 
 
-* ![Home](./hospital.png)
+* ![Home](./src/delta.png)
 
 
 <!-- TABLE OF CONTENTS -->
