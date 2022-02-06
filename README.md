@@ -11,13 +11,11 @@ These are the field  respectively symbol, description, underlying_asset.symbol,M
 <!-- TABLE OF CONTENTS -->
 ## Table of Contents
 
-* [About the Project](#about-the-project)
+
 * [Installation](#installation)
 * [Built With](#built-with)
-*
-* [Potential Future Updates](#potential-future-updates)
 * [Contact](#authors)
-* [Acknowledgements](#acknowledgments)
+
 
 
 <!-- INSTALLATION -->
