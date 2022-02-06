@@ -1,5 +1,6 @@
 .App {
   text-align: center;
+  margin: 10rem;
 }
 
 .App-logo {
@@ -35,4 +36,9 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+.gxsoks .sc-dkPtRN:not(:nth-last-child(-n+1)) .sc-gsDKAQ {
+  border-left: 2px solid black;
+  border-bottom: 2px solid black;
 }
