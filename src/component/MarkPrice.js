@@ -21,7 +21,7 @@
       const json = JSON.parse(event.data);
       try {
         if ((json.event = "data")) {
-          console.log(json.mark_price)
+          // console.log(json.mark_price)
           setBids(json.mark_price);
         }
       } catch (err) {
